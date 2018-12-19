@@ -1,0 +1,17 @@
+Package: com.idevice.CTW
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: ctwvip
+Depends: mobilesubstrate, coreutils-bin, zip, unzip
+Conflicts: app.weiphone.ALS, app.weiphone.AWZ, app.weiphone.NZT, app.weiphone.LRN, app.weiphone.IGG
+Filename: debs/CTW1.2.0.deb
+Size: 11022602
+MD5sum: b46515a229ba02cb501d0d08972c8761
+SHA1: 6e7640689ee310897ac56f412b535ae164a70f4d
+SHA256: 6c3b1943bf78733c747d5e3b460c208cc3be2b39bfe83bac33b39461c48d4b9e
+Section: Utilities
+Priority: standard
+Description: CTW
+Icon: file:///Applications/CTW.app/AppIcon60x60@2x.png
+Name: CTW
+

@@ -1,0 +1,8 @@
+Origin: CTW官方源
+Label: CTWVIP
+Suite: stable
+Version: 1.0
+Codename: CTWVIP
+Architectures: iphoneos-arm
+Components: main
+Description: CTWVIP 邮箱CTWVIP@nxctw.com
