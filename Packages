@@ -15,3 +15,30 @@ Description: CTW
 Icon: file:///Applications/CTW.app/AppIcon60x60@2x.png
 Name: CTW
 
+Package: com.wxsoft.Tweak-moreAccount
+Version: 3.0-11
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware(>= 7.0)
+Filename: debs/iosww.deb
+Size: 1536548
+MD5sum: 730293fa40ba6c83d40a1af5096cbafe
+SHA1: 59d487f24b726c379d87afa48f3bc23ec80265f0
+SHA256: f070d0a73c5a778339e457dd6e72c8d1be18224864a0e803ef7e5aeee46aaf15
+Section: System
+Priority: optional
+Author: GXH
+Name: Tweak_moreAccount
+
+Package: com.wxsoft.wqtbgn
+Version: 1.0-19
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/soft.deb
+Size: 245600
+MD5sum: f7b49e68f1ea1d5880a98e3a8ad7bd2e
+SHA1: 28fd2a12e8dab69c3f46199e3fbd705abf7c53d6
+SHA256: d79aa988116b62fbae8ab793289045f59bac1c21d5cadd117eab7484c527da8d
+Section: System
+Priority: optional
+Author: XIAOHUI GE
+Name: wqtbgn
